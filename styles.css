@@ -1,0 +1,45 @@
+#togglelogin{
+    padding-right:15px;
+}
+#loginAlert{
+  display:none;
+}
+
+html{
+    position: relative;
+    min-height: 100%;
+
+}
+body{
+    margin-bottom: 60px;
+
+}
+.mainContainer{
+  padding: 20px;
+}
+.time{
+  color:blueviolet;
+}
+.tweet{
+  border:1px solid grey;
+  border-radius: 5px;
+  padding:5px;
+  margin: 5px;
+}
+#tweetSuccess{
+  display:none;
+}
+#tweetFail{
+  display: none;
+}
+
+.footer {
+    position: absolute;
+    bottom:0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background-color: #f5f5f5;
+}
+
+  
